@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\User1\\MLDPTerminal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back_red.xml",
+        "source": "C:\\Users\\User1\\MLDPTerminal\\app\\src\\main\\res\\drawable\\back_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\User1\\MLDPTerminal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border_blue.xml",
+        "source": "C:\\Users\\User1\\MLDPTerminal\\app\\src\\main\\res\\drawable\\border_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\User1\\MLDPTerminal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border_red.xml",
+        "source": "C:\\Users\\User1\\MLDPTerminal\\app\\src\\main\\res\\drawable\\border_red.xml"
+    }
+]
